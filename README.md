@@ -39,30 +39,14 @@ The main objectives of this project are:
 
 ```text
 Student-Performance-Analyzer/
-│
 ├── main.py
 ├── analysis.py
 ├── visualization.py
 ├── Student_performance_dataset.csv
 ├── requirements.txt
 ├── README.md
-│
+├── .gitignore
 └── outputs/
-    │
-    ├── student_analysis_results.csv
-    ├── top_10_students.csv
-    ├── low_attendance_students.csv
-    ├── failed_students.csv
-    │
-    └── charts/
-        ├── subject_average.png
-        ├── pass_fail_distribution.png
-        ├── attendance_distribution.png
-        ├── attendance_vs_average.png
-        ├── study_hours_vs_average.png
-        ├── top_10_students.png
-        ├── grade_distribution.png
-        └── correlation_matrix.png
 ```
 
 ---
